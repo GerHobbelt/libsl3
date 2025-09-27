@@ -199,7 +199,7 @@ namespace sl3
      * The Types ot the given values must be compatible with the
      * current ones.
      *
-     * \param values new paramter values
+     * \param values new parameter values
      * \throw sl3::ErrTypeMisMatch if size of values differs from the actual
      * parameter size or DbValue assignment throws.
      * \see DbValue
